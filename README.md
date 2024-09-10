@@ -1,4 +1,5 @@
-# Python-Project
+# Exploring the Relationship Between Aneurysm Occurrence, Sex, and Age
+
 This project aims to explore the relationship between aneurysm occurrence, sex, and age. The key research questions include:
 1. Is there a significant difference in aneurysm occurrence between sexes?
 2. How does age influence the occurrence of aneurysms?
